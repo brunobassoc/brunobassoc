@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRta3R0M3lieXdncXkzdG5ja2FxYzVyZGlueGU2c2RkczN2dGxidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="100"/>
+</div>
+
+
 <!--
 **brunobassoc/brunobassoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
