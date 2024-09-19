@@ -1,7 +1,7 @@
 # Hello, I'm Bruno Basso ⭐
 **`Computer Science Student.`**
 <div id="header">
-  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRta3R0M3lieXdncXkzdG5ja2FxYzVyZGlueGU2c2RkczN2dGxidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="197](https://giphy.com/gifs/disney-walt-disney-animation-studios-big-hero-6-baymax-fHRP7nAicEggw)"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRta3R0M3lieXdncXkzdG5ja2FxYzVyZGlueGU2c2RkczN2dGxidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="197](https://giphy.com/gifs/disney-walt-disney-animation-studios-big-hero-6-baymax-fHRP7nAicEggw)"/>
 
 ##
 
