@@ -1,10 +1,9 @@
 # Hello, I'm Bruno Basso ⭐
 **`Computer Science Student.`**
 <div id="header">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRta3R0M3lieXdncXkzdG5ja2FxYzVyZGlueGU2c2RkczN2dGxidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="197](https://giphy.com/gifs/disney-walt-disney-animation-studios-big-hero-6-baymax-fHRP7nAicEggw)"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2c2M3FjenJra25ja2xjMDhlcDZrZmdmdjE3OHRhcjE1Y2J5NDZvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fHRP7nAicEggw/giphy.gif" width="197]"/>
 
 ##
-
 <p>
   <a>
     My name is Bruno and I'm currently seeking professional experience to apply and enhance my skills. I am open to new opportunities and collaborations that will allow me to grow as a professional in the technology field.
