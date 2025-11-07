@@ -78,7 +78,7 @@ I enjoy connecting **Python + SQL + APIs** to build reliable data pipelines and 
 
 ### Find me
 
-- **Portfolio:** https://brunobassoportfolio.vercel.app  
+- **Portfolio:** [https://brunobassoportfolio.vercel.app ](https://brunoportfolio.vercel.app) 
 - **LinkedIn:** https://www.linkedin.com/in/brunobassoc 
 - **GitHub:** https://github.com/brunobassoc
 
