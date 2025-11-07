@@ -1,34 +1,75 @@
-# Hello, I'm Bruno Basso ⭐
-**`Computer Science Student.`**
-<div id="header">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2c2M3FjenJra25ja2xjMDhlcDZrZmdmdjE3OHRhcjE1Y2J5NDZvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fHRP7nAicEggw/giphy.gif" width="197]"/>
 
-##
-<p>
-  <a>
-    My name is Bruno and I'm currently seeking professional experience to apply and enhance my skills. I am open to new opportunities and collaborations that will allow me to grow as a professional in the technology field.
-    <br><br>
-    This GitHub profile aims to store projects carried out for college and also personal projects. I aim to bring documentation files (README) with clear and precise instructions to all my projects so that students, like me, can easily implement and improve the projects.
-    <br><br>
-    You can also check out my Personal Portfolio, thanks for visiting!
-    <br><br>
-    <a href="https://brunoportfolio.vercel.app" target="_blank">https://brunoportfolio.vercel.app</a>
-  </a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ikatyang/emoji-cheat-sheet/master/public/graphics/emojis/chart_with_upwards_trend.png" width="18" />
+  <strong>Hello, I'm Bruno Basso</strong> · he/him
 </p>
 
-##
+<p align="center">
+  Computer Science Student @ Atitus · Data & Analytics Focus · Brazil
+</p>
 
-### Languages and Tools
+---
 
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-<br />
+### About me
+
+I'm a Computer Science student focused on **Data & Analytics** with a hands-on background in **QA/Performance**.  
+I like to connect **Python + SQL + APIs** to build reliable data pipelines and clear, decision-driven insights.
+
+- Looking for opportunities in **Data Analytics / Data Engineering / BI**  
+- Interested in **ETL, data modeling, APIs, performance & automation**  
+- Currently taking the **IBM Data Science Professional Certificate**
+
+---
+
+### Tech stack
+
+**Data & Analytics:** Python · SQL · Pandas · NumPy · Matplotlib/Plotly · Power BI  
+**Automation & Testing:** Postman · k6 · JMeter · Mocha/Chai · GitLab CI/CD  
+**Dev & Tools:** JavaScript · Node.js · Docker · Git/GitHub · REST APIs
+
+---
+
+### Featured projects
+
+> Pin these repos on your profile and keep a 2–3 line summary in each README.
+
+- **Recommender System Analysis — Spotify**  
+  Data cleaning + exploratory analysis + simple evaluation of recommendations using Python (Pandas/Plotly).  
+
+- **API Performance Testing — ServeRest**  
+  Load, stress and spike tests using k6/JMeter; HTML summary reports; CI with GitLab.  
+
+- **Data Cleaning Mini-Projects** *(placeholder)*  
+  Small notebooks showcasing data wrangling, joins, aggregations and visualizations.
+
+---
+
+### What I'm learning right now
+
+- **IBM Data Science** (Python, SQL, ML basics, data viz)  
+- **ETL fundamentals** (data modeling, validations, quality checks)  
+- **Dashboards & storytelling** (Power BI)
+
+---
+
+### How I work
+
+- Clear READMEs and reproducible steps  
+- Small, modular commits  
+- Focus on data quality and performance
+
+---
+
+### Find me
+
+- Portfolio: https://brunoportfolio.vercel.app  
+- LinkedIn: https://www.linkedin.com/in/brunobassoc  
+- GitHub: https://github.com/brunobassoc
+
+---
+
+<!-- Optional: GitHub stats (remove if you prefer a cleaner look) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brunobassoc&show_icons=true&hide_title=true&include_all_commits=true" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunobassoc&layout=compact" height="140" />
+</p>
